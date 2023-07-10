@@ -1,0 +1,1 @@
+{"version":3,"sources":["webparts/list/components/TicketCategory.scss.ts"],"names":[],"mappings":"AAAA,oBAAoB;AACpB,OAAO,CAAC,sBAAsB,CAAC,CAAC;AAEhC,mBAAmB","file":"webparts/list/components/TicketCategory.scss.js","sourcesContent":["/* tslint:disable */\r\nrequire('./TicketCategory.css');\r\n\r\n/* tslint:enable */"],"sourceRoot":"..\\..\\..\\..\\src"}
